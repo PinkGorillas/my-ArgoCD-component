@@ -4,11 +4,11 @@ metadata:
   annotations:
     argocd/app-name: guestbook
   name: my-argoCD-component
-#spec:
-  #lifecycle: production
-  #owner: my-team
-  #type: service
 spec:
-  type: library
-  owner: CNCF
-  lifecycle: experimental
+  lifecycle: production
+  owner: my-team
+  type: service
+#spec:
+  #type: library
+  #owner: CNCF
+  #lifecycle: experimental
