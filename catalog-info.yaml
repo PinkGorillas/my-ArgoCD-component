@@ -8,7 +8,3 @@ spec:
   lifecycle: production
   owner: my-team
   type: service
-#spec:
-  #type: library
-  #owner: CNCF
-  #lifecycle: experimental
